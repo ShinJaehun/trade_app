@@ -59,6 +59,7 @@ gem 'bulma-rails'
 gem 'sidekiq'
 gem 'simple_form'
 gem 'kramdown'
+gem 'kramdown-parser-gfm'
 gem 'mini_magick'
 
 group :development, :test do
